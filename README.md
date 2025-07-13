@@ -25,4 +25,8 @@ Dependency's:
 
 I made this Project for fun as I wanted a Bank plugin that stores its data in a database and also tracks the deposit and withdraws from it.
 
+## License
 
+This project’s source code is licensed under the [MIT License](./LICENSE). See the LICENSE file for details.
+
+**Note:** All images, logos, and other visual assets are Copyright © 2025 SirMonkeyBoy and are **not** covered by the MIT License. They may not be used without explicit permission.
